@@ -1,0 +1,18 @@
+{
+    "portfolio":[
+        {
+            "title":"Furnicure",
+            "desc": "Webová stránka fiktivní nábytkářské firmay s administrací.",
+            "tech":["Svelte","SCSS","Pocketbase"],
+            "github":"https://github.com/Ladkan/furniture",
+            "img":"http://i.ladkan.eu/furniture.png"
+        },
+        {
+            "title":"PHP News",
+            "desc": "Webová stránka tvořená jako školní projekt.",
+            "tech":["PHP","SCSS","MySQL"],
+            "github":"https://github.com/Ladkan/php_news",
+            "img":"http://i.ladkan.eu/php_news.png"
+        }
+    ]
+}
